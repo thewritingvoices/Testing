@@ -1,0 +1,1 @@
+This is a test Ember note. When you send a real request, include a JSON body with a 'content' field.
