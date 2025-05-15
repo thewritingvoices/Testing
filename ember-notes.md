@@ -1,1 +1,1 @@
-This is a test Ember note. When you send a real request, include a JSON body with a 'content' field.
+This is a placeholder. Send a POST request to this webhook with a JSON body containing a 'content' field.
